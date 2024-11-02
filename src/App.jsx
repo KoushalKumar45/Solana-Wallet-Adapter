@@ -30,7 +30,7 @@ function App() {
                   <WalletDisconnectButton />
                   
                 </div>
-                  {/* <RequestAirdrop/> */}
+                  <RequestAirdrop/>
                   <ShowBalance/>
                   <SendToken/>
                </WalletModalProvider>
